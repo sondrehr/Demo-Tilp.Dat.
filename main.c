@@ -9,6 +9,6 @@ int main(){
 
 	}	
 	printf("hei");
-	printf("Hello World");
+	printf("Hello Jupiter");
 	return 0;
 }
